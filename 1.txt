@@ -1,0 +1,116 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="initial-scale=1, width=device-width">
+	<meta name="mobileoptimized" content="0">
+	<meta name="keywords" content=" градски транспорт, маршрут, разписание, билет, абонаментна карта, паркиране, SMS, синя зона, паркинги, автобус, тролейбус, трамвай, скоби, паяк, гараж, служебен абонамент, винетка, талон, софия ">
+	<meta name="description" content=" Център за Градска Мобилност, София - информация за Градски Транспорт и паркиране в &quot;Синя Зона&quot;. ">
+	
+	<link rel="stylesheet" href="/media/css/mobile.css?v=0.4.1" type="text/css" media="screen, projection">
+	<title>Център за градска мобилност - Разписания</title>
+<style class="fde1a6ba71ae3ae1330f1f7bec9b7a3">object[type$="x-shockwave-flash"]:not([classid]),object[type$="futuresplash"]:not([classid]),embed[type$="x-shockwave-flash"],embed[type$="futuresplash"]{display:none !important}</style><style type="text/css"></style></head>
+<body>
+	<div class="header">
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td style="padding-top: 5px;"><a href="/bg/common/"><img id="logo" src="/media/img/logo.gif" height="30" width="37" border="0"></a></td>
+				<td valign="middle">ЦЕНТЪР ЗА ГРАДСКА МОБИЛНОСТ</td>
+			</tr>
+		</tbody></table>
+	</div>
+	
+	<div class="menu">
+		<table width="100%">
+			<tbody><tr>
+				<td><a href="/bg/common/">НАЧАЛО</a></td>
+									<td style="text-align: right;">
+						<a href="/schedules/vehicle?vt=1&amp;lid=1000084&amp;stop=1003944&amp;rid=1000065">НАЗАД</a>
+					</td>
+							</tr>
+		</tbody></table>
+	</div>
+	<div class="cnt">
+		<div class="page_box">
+	
+	<div class="page_title">
+		<b>Автобус 204</b>
+	</div>
+	<div class="txt_box">
+		<b>Спирка (код):</b>
+		Бул.България(290)
+		<br>
+		<b>Направлениe:</b>
+				"Ж.к. Дружба 2 - ж.к.Борово"
+	</div>
+
+	<br>
+	<div class="info">
+		Информация към 12.10.2013 22:26	</div>
+	<br>
+	Точно време на пристигане:
+	<br>
+	<b>22:38,23:01,23:29</b>
+	<br><br>
+
+		<a href="/schedules/vehicle?stop=1003944&amp;vt=1&amp;lid=1000084&amp;rid=1000065">Разписание</a>
+
+
+			<div class="sep"><!-- --></div>
+		<div class="txt_box">
+			Други превозни средства, преминаващи през същата спирка		</div>
+		
+<div class="arrivals">
+					
+			<div class="arr_title_1">
+				<b>
+				Автобуси				</b>
+			</div>
+				<div class="arr_info_1">
+			<a href="/schedules/vehicle?stop=1003944&amp;lid=1000009&amp;vt=1&amp;rid=1000654"><b>83</b></a>&nbsp;-&nbsp;
+			22:51,23:16,23:43			<br>
+			Бенакс-Елпроменерго(83нов)		</div>
+					<div class="arr_info_1">
+			<a href="/schedules/vehicle?stop=1003944&amp;lid=1000012&amp;vt=1&amp;rid=1000860"><b>102</b></a>&nbsp;-&nbsp;
+			22:38,23:04,23:27			<br>
+			Ст.Град-Овча купел-2(102)		</div>
+					<div class="arr_info_1">
+			<a href="/schedules/vehicle?stop=1003944&amp;lid=1000107&amp;vt=1&amp;rid=1000086"><b>73</b></a>&nbsp;-&nbsp;
+			22:39,23:14			<br>
+			Гоце Делчев - Овча купел		</div>
+	 
+</div>
+	
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+	<div class="footer">
+		<table width="100%">
+			<tbody><tr>
+				<td><a href="/bg/common/">НАЧАЛО</a></td>
+									<td style="text-align: center;">
+						<a href="/schedules/">РАЗПИСАНИЯ</a>
+					</td>
+								<td style="text-align: left; color: white;">Център за градска мобилност ©</td>
+									<td style="text-align: right;">
+						<a href="/schedules/vehicle?vt=1&amp;lid=1000084&amp;stop=1003944&amp;rid=1000065">НАЗАД</a>
+					</td>
+								
+			</tr>
+		</tbody></table>
+	</div>
+
+
+<span class="smarterwiki-popup-bubble smarterwiki-popup-bubble-active smarterwiki-popup-bubble-flipped broke-endless-pages" style="top: 350px; left: 175px; margin-left: -76px; opacity: 0.25;"><span class="smarterwiki-popup-bubble-tip"></span><span class="smarterwiki-popup-bubble-body"><span class="smarterwiki-popup-bubble-links-container"><span class="smarterwiki-popup-bubble-links"><span class="smarterwiki-popup-bubble-links-row"><a class="smarterwiki-popup-bubble-link" href="http://www.google.com/search?q=%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%B8" title="Search Google" target="_blank"><img alt="" class="smarterwiki-popup-bubble-link-favicon" src="https://www.google.com/favicon.ico"></a><a class="smarterwiki-popup-bubble-link" href="http://duckduckgo.com/?q=%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%B8&amp;t=ff" title="Search DuckDuckGo" target="_blank"><img alt="" class="smarterwiki-popup-bubble-link-favicon" src="https://ff.duckduckgo.com/favicon.ico"></a><a class="smarterwiki-popup-bubble-link" href="http://www.google.com/search?hl=com&amp;btnI=I'm+Feeling+Lucky&amp;q=%D0%B2%D1%82%D0%BE%D0%B1%D1%83%D1%81%D0%B8+wikipedia" title="Search Wikipedia" target="_blank"><img alt="" class="smarterwiki-popup-bubble-link-favicon" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAATCAYAAACQjC21AAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAIpwAACKcBMsYCAwAAAAd0SU1FB9kFEwgQLXKnj9oAAAPsSURBVDiNdVRZSGRXEH1Joz8icSIMJsEQEvKvov4ICoOYIAp+KKISkLiAgij5UGOMjgoug6CiKC64i/sSpVHcl7jv7W6722pcWmyNoqBW6hRpyYSZC8W7975bdU+dOrcUIlL+axYWFq+SkpLybWxsYo17VlZWX/H6DebOzs4/ent7/+Lu7v7z/31h7y8U5fvV1VWNra3tIObGvZqamtaHh4fHxMTExb29vcejoyMKCwt7jIqKWuD/bz4Y0MXF5e319bU2JyfngA99x/YJ22empqZuERERKwcHB9Td3U37+/u0srJCc3NzNDIyQk1NTVcqleonPvv6JSCPL87OznQ8p+TkZC2vv2GzcnNz+83a2joqLy9vCQFnZ2dpfX2dlpaWqLe3lzo7O+WStLS0ORMTE7+XgCkpKTX07/Dz86PIyEhDVlaWISMjgxISEmRfp9PRzs4O7e7uEtMi6EZHRyVweHg4gp6bm5tbKK958PlbODES+ZmZmQmkxjsE2d3dHWm1WsrOzqa6ujoaGhqigYEBGh4epvT0dCovLyd7e3sfhR3fGR0vLy9fULa0tMj8/PycNBoNcVGIi0NxcXHU09NDY2Nj1N/fL2mXlZXJJV5eXkXK9va2DojggIDPz8/iuLGxQcvLy8IXEN7c3JBer5f14uKiIOzr66P29naqqqqiiooK8vf3n1aYbP3ExIQcZkkIKgcHBwJ/BoNB1ltbW8IbF466urrk3OTkpFhDQ4MEZA7Jx8fnSGEJ6I2pHh4eyvf2ViglVBbBwBMQb25u0sLCgnAXExMjVLS1tVFJSYmkHRoa+pfCmydwPjk5EYf7+3txwBoVRTFmZmZetFdcXEyBgYGUm5srVa6traWioiIqKCig4ODgVYVJnUE6LGpBhLQQDMjAHeaQzPT0tASG7iorK0U2kAwC4hIE9PT0HFZYvB7j4+NPQHlxcSGFOD4+Fvnw8xKOUGnwxAWkqakpqSz7CJ/V1dXEmiV+/+To6Pi7CJvFq356ehIHaA2ogPjq6krSRlVbW1ulqoODgyIbyMfX15dKS0spNjYWAf+2tLT8UgLyJAIPHinPz89LFcEXJIJUcdHa2ppIBAjVajWlpqYSNwcqLCwUdEFBQX9+ysP4llXcSf7gFO6A8PT0lJqbm4UXvB6kBc6QKgz/sAfu8Ers7OzecYxv3+s2PD53dXX9FVUFCiCqr6+njo4OSRMBwSN3FylKfn4+MQgKCAhAC1N9rB+aODk5vWUU5+ARUoHu8CpQ0cbGRjFcxA3kkjtRAft8/dEGazRuRabcZH8ICQkpjo6OVjNHmvj4+GXuiyMeHh453ATCzMzMXn3I9x8oCiuuorpqawAAAABJRU5ErkJggg=="></a></span></span></span></span></span></body></html>

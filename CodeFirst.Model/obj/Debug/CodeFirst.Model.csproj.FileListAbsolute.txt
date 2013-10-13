@@ -1,0 +1,5 @@
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.Model\bin\Debug\CodeFirst.Model.dll
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.Model\bin\Debug\CodeFirst.Model.pdb
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.Model\obj\Debug\CodeFirst.Model.dll
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.Model\obj\Debug\CodeFirst.Model.pdb
+c:\Temp\CORDOVA\Project\SofiaTransport\CodeFirst.Model\obj\Debug\CodeFirst.Model.csprojResolveAssemblyReference.cache

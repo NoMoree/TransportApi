@@ -1,0 +1,89 @@
+(function(global) {  
+    var TransportViewModel,
+    app = global.app = global.app || {};
+    
+    TransportViewModel = kendo.data.ObservableObject.extend({
+        selectedType:  [],
+        onTypeSelect:onCategoryChanged,   
+        bus:null,
+        
+        
+        init: function (e) {
+            var that = this;
+            /*,
+            bus;*/
+            
+            kendo.data.ObservableObject.fn.init.apply(that, []);
+            
+          var busData = new kendo.data.DataSource({
+                transport: {
+                    read: {
+                        url: "data/bus.json",
+                        dataType: "json"
+                    }
+                }
+            });
+          
+            that.set("bus", busData);          
+        }
+    });  
+    
+   /* var bus = new kendo.data.DataSource({
+                transport: {
+                    read: {
+                        url: "data/bus.json",
+                        dataType: "json"
+                    }
+                }
+            });*/
+        
+    function onCategoryChanged(e) {      
+        
+                console.log("YEEEEEEEEEEEEEEES");
+        var index = e.sender.selectedIndex;
+  console.log(index);
+        
+        if(index == 0)
+        {
+             var that = this;
+            /*,
+            bus;*/
+            
+            kendo.data.ObservableObject.fn.init.apply(that, []);
+            
+          var busData = new kendo.data.DataSource({
+                transport: {
+                    read: {
+                        url: "data/bus.json",
+                        dataType: "json"
+                    }
+                }
+            });
+           
+            TransportViewModel.set("selectedType", busData);
+        }
+        
+        /*sender: o.extend.init
+_events: Object
+element: T.fn.init[1]
+options: Object
+selectedIndex: 0
+wrapper: T.fn.init[1]
+__proto__: i*/
+        
+        
+        
+        /*var index = this.current().index();*/
+        /*console.log(e.sender._selectedValue);
+        
+        httpRequest.getJSON(app.servicesBaseUrl + "categories/" + e.sender._selectedValue)
+        .then(function(category) {
+            viewModel.set("selectedCategory", category);
+            console.log(category);
+        });*/
+    };
+    
+    app.transportService = {
+        viewModel: new TransportViewModel()
+    };
+})(window);

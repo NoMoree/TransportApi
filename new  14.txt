@@ -1,0 +1,118 @@
+http://m.sofiatraffic.bg/schedules/vehicle-vt?s=3002332&lid=3000029&vt=3&rid=3000256
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="initial-scale=1, width=device-width">
+	<meta name="mobileoptimized" content="0">
+	<meta name="keywords" content=" градски транспорт, маршрут, разписание, билет, абонаментна карта, паркиране, SMS, синя зона, паркинги, автобус, тролейбус, трамвай, скоби, паяк, гараж, служебен абонамент, винетка, талон, софия ">
+	<meta name="description" content=" Център за Градска Мобилност, София - информация за Градски Транспорт и паркиране в &quot;Синя Зона&quot;. ">
+	
+	<link rel="stylesheet" href="/media/css/mobile.css?v=0.4.1" type="text/css" media="screen, projection">
+	<title>Център за градска мобилност - Разписания</title>
+<style type="text/css"></style><style class="fa6d377ef1062bd2f7024e8d5e47d6d">object[type$="x-shockwave-flash"]:not([classid]),object[type$="futuresplash"]:not([classid]),embed[type$="x-shockwave-flash"],embed[type$="futuresplash"]{display:none !important}</style></head>
+<body>
+	<div class="header">
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td style="padding-top: 5px;"><a href="/bg/common/"><img id="logo" src="/media/img/logo.gif" height="30" width="37" border="0"></a></td>
+				<td valign="middle">ЦЕНТЪР ЗА ГРАДСКА МОБИЛНОСТ</td>
+			</tr>
+		</tbody></table>
+	</div>
+	
+	<div class="menu">
+		<table width="100%">
+			<tbody><tr>
+				<td><a href="/bg/common/">НАЧАЛО</a></td>
+									<td style="text-align: right;">
+						<a href="/schedules/vehicle?vt=3&amp;lid=3000029&amp;stop=3002332&amp;rid=3000256">НАЗАД</a>
+					</td>
+							</tr>
+		</tbody></table>
+	</div>
+	<div class="cnt">
+		<div class="page_box">
+	
+	<div class="page_title">
+		<b>Трамвай 11</b>
+	</div>
+	<div class="txt_box">
+		<b>Спирка (код):</b>
+		БУЛ. НИКОЛА ПЕТКОВ(349)
+		<br>
+		<b>Направлениe:</b>
+				"БУЛ. НИКОЛА ПЕТКОВ - Кв.Илиянци"
+	</div>
+
+	<br>
+	<div class="info">
+		Информация към 11.10.2013 22:45	</div>
+	<br>
+	Точно време на пристигане:
+	<br>
+	<b>22:59,23:28</b>
+	<br><br>
+
+		<a href="/schedules/vehicle?stop=3002332&amp;vt=3&amp;lid=3000029&amp;rid=3000256">Разписание</a>
+
+
+			<div class="sep"><!-- --></div>
+		<div class="txt_box">
+			Други превозни средства, преминаващи през същата спирка		</div>
+		
+<div class="arrivals">
+					
+			<div class="arr_title_3">
+				<b>
+				Трамваи				</b>
+			</div>
+				<div class="arr_info_3">
+			<a href="/schedules/vehicle?stop=3002332&amp;lid=3000025&amp;vt=3&amp;rid=3000085"><b>5</b></a>&nbsp;-&nbsp;
+			22:47,23:03,23:19			<br>
+			Княжево - Съдебна палата		</div>
+					<div class="arr_info_3">
+			<a href="/schedules/vehicle?stop=3002332&amp;lid=3000031&amp;vt=3&amp;rid=3001043"><b>19</b></a>&nbsp;-&nbsp;
+			22:57,23:46			<br>
+			Княжево - София Север(19)Нов		</div>
+					<div class="arr_info_3">
+			<a href="/schedules/vehicle?stop=3002332&amp;lid=3000051&amp;vt=3&amp;rid=3000727"><b>4</b></a>&nbsp;-&nbsp;
+			22:45,23:24			<br>
+			Н. Петков - Орландовци		</div>
+	 
+</div>
+	
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+	<div class="footer">
+		<table width="100%">
+			<tbody><tr>
+				<td><a href="/bg/common/">НАЧАЛО</a></td>
+									<td style="text-align: center;">
+						<a href="/schedules/">РАЗПИСАНИЯ</a>
+					</td>
+								<td style="text-align: left; color: white;">Център за градска мобилност ©</td>
+									<td style="text-align: right;">
+						<a href="/schedules/vehicle?vt=3&amp;lid=3000029&amp;stop=3002332&amp;rid=3000256">НАЗАД</a>
+					</td>
+								
+			</tr>
+		</tbody></table>
+	</div>
+
+
+</body></html>

@@ -1,0 +1,66 @@
+
+<div id="tabstrip-transport" 
+     data-role="view"  
+     data-title="Transport" 
+     data-model="app.transportService.viewModel">
+
+    <div class="weather">
+        <h1>TRANSPORT VIEW</h1>
+
+        <div class="separator">
+            <div class="dark"></div>
+            <div class="light"></div>
+        </div>
+
+        <ul data-role="buttongroup" data-select-on="up" data-bind="events: { select: onTypeSelect}"   >
+            <li>Option 1</li>
+            <li>Option 2</li>
+            <li>Option 3</li>
+        </ul>
+
+        <ul 
+            data-role="listview" 
+            data-select-on="up"
+            data-style="inset"
+                    
+            data-bind="source: selectedType" 
+            data-template="transport-template">
+        </ul>
+    </div>
+</div>
+
+<script>
+
+    function onSelect(e) {
+        var index = this.current().index();
+        console.log(index);
+    }
+</script>
+
+<!--Weather forecast template-->
+<script type="text/x-kendo-tmpl" id="transport-template">
+    <ul>
+        <a data-role="button">${n}</a>
+    </ul>
+</script>
+
+<!--<div data-role="view" id="transports-view" data-id="transports-view"
+data-layout="main-layout" data-title="Categories"
+data-show="app.transports.init">
+<div id="categories-holder">
+<select id="categories-list" data-role="buttongroup" data-select-on="up"
+data-bind="source: transports"
+data-text-field="name"
+data-value-field="id">
+</select>
+
+<div id="category-info">
+<h1 data-bind="text: selectedCategory.Name" data-align="center"></h1>
+<ul data-role="listview" 
+data-bind="source: selectedCategory.Places" 
+data-template="place-template"
+data-align="center"></ul>
+</div>
+</div>
+</div>-->
+      

@@ -1,0 +1,10 @@
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\bin\Debug\CodeFirst.DataLayer.dll.config
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\bin\Debug\CodeFirst.DataLayer.dll
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\bin\Debug\CodeFirst.DataLayer.pdb
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\bin\Debug\CodeFirst.Model.dll
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\bin\Debug\EntityFramework.dll
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\bin\Debug\CodeFirst.Model.pdb
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\bin\Debug\EntityFramework.xml
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\obj\Debug\CodeFirst.DataLayer.csprojResolveAssemblyReference.cache
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\obj\Debug\CodeFirst.DataLayer.dll
+c:\temp\CORDOVA\Project\SofiaTransport\CodeFirst.DataLayer\obj\Debug\CodeFirst.DataLayer.pdb

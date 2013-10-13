@@ -1,0 +1,111 @@
+111111111111111111111111111111111 
+0+1
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="initial-scale=1, width=device-width">
+	<meta name="mobileoptimized" content="0">
+	<meta name="keywords" content=" градски транспорт, маршрут, разписание, билет, абонаментна карта, паркиране, SMS, синя зона, паркинги, автобус, тролейбус, трамвай, скоби, паяк, гараж, служебен абонамент, винетка, талон, софия ">
+	<meta name="description" content=" Център за Градска Мобилност, София - информация за Градски Транспорт и паркиране в &quot;Синя Зона&quot;. ">
+	
+	<link rel="stylesheet" href="/media/css/mobile.css?v=0.4.1" type="text/css" media="screen, projection">
+	<title>Център за градска мобилност - Разписания</title>
+<style type="text/css"></style><style class="feb1983e1f6a90c62d292078ae4da96">object[type$="x-shockwave-flash"]:not([classid]),object[type$="futuresplash"]:not([classid]),embed[type$="x-shockwave-flash"],embed[type$="futuresplash"]{display:none !important}</style></head>
+<body>
+	<div class="header">
+		<table cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td style="padding-top: 5px;"><a href="/bg/common/"><img id="logo" src="/media/img/logo.gif" height="30" width="37" border="0"></a></td>
+				<td valign="middle">ЦЕНТЪР ЗА ГРАДСКА МОБИЛНОСТ</td>
+			</tr>
+		</tbody></table>
+	</div>
+	
+	<div class="menu">
+		<table width="100%">
+			<tbody><tr>
+				<td><a href="/bg/common/">НАЧАЛО</a></td>
+									<td style="text-align: right;">
+						<a href="/schedules/vehicle?vt=2&amp;lid=2000003&amp;stop=2000993&amp;rid=2000499">НАЗАД</a>
+					</td>
+							</tr>
+		</tbody></table>
+	</div>
+	<div class="cnt">
+		<div class="page_box">
+	
+	<div class="page_title">
+		<b>Тролейбус 5</b>
+	</div>
+	<div class="txt_box">
+		<b>Спирка (код):</b>
+		Бул.Александър Стамболийски(284)
+		<br>
+		<b>Направлениe:</b>
+				"Ж.к.Младост-1 - Надлез Надежда"
+	</div>
+
+	<br>
+	<div class="info">
+		Информация към 12.10.2013 23:47	</div>
+	<br>
+	Точно време на пристигане:
+	<br>
+	<b></b>
+	<br><br>
+
+		<a href="/schedules/vehicle?stop=2000993&amp;vt=2&amp;lid=2000003&amp;rid=2000499">Разписание</a>
+
+
+			<div class="sep"><!-- --></div>
+		<div class="txt_box">
+			Други превозни средства, преминаващи през същата спирка		</div>
+		
+<div class="arrivals">
+					
+			<div class="arr_title_2">
+				<b>
+				Тролейбуси				</b>
+			</div>
+				<div class="arr_info_2">
+			<a href="/schedules/vehicle?stop=2000993&amp;lid=2000010&amp;vt=2&amp;rid=2000011"><b>1</b></a>&nbsp;-&nbsp;
+			00:00,00:31			<br>
+			Левски-Г - Пета гр. болница		</div>
+	 
+</div>
+	
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+	<div class="footer">
+		<table width="100%">
+			<tbody><tr>
+				<td><a href="/bg/common/">НАЧАЛО</a></td>
+									<td style="text-align: center;">
+						<a href="/schedules/">РАЗПИСАНИЯ</a>
+					</td>
+								<td style="text-align: left; color: white;">Център за градска мобилност ©</td>
+									<td style="text-align: right;">
+						<a href="/schedules/vehicle?vt=2&amp;lid=2000003&amp;stop=2000993&amp;rid=2000499">НАЗАД</a>
+					</td>
+								
+			</tr>
+		</tbody></table>
+	</div>
+
+
+</body></html>

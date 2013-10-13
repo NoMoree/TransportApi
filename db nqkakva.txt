@@ -1,0 +1,161 @@
+var sqlite = (function() {
+    var app = app || {};
+    app.db = null;
+
+    function init() {
+        app.openDb();
+        app.createTable();
+    }
+    
+    app.openDb = function() {
+        if (window.sqlitePlugin !== undefined) {
+            app.db = window.sqlitePlugin.openDatabase("TransportDbProba3");
+        }
+        else {
+            // For debugging in simulator fallback to native SQL Lite
+            app.db = window.openDatabase("TransportDbProba3", "1.0", "TransportDbProba3Demo", 200000);
+        }
+    }
+    
+    app.createTable = function() {
+        app.db.transaction(function(tx) {
+            tx.executeSql("CREATE TABLE IF NOT EXISTS Response" +
+                          "(id INTEGER PRIMARY KEY ASC, " +
+                          "time TEXT, " + 
+                          "date TEXT, " +
+                          "number TEXT, " +
+                          "time TEXT, " +
+                          "more TEXT, " +
+                          "data TEXT"
+                          + ");", []);
+        });
+        /*app.db.transaction(function(tx) {
+        tx.executeSql("CREATE TABLE IF NOT EXISTS Response" +
+        "(id INTEGER PRIMARY KEY ASC, " +
+        "sesion INTEGER" +
+        "at TEXT" +
+        "stopId INTEGER" +
+        "number TEXT" +
+        "time TEXT"
+        + ");", []);
+        });
+        app.db.transaction(function(tx) {
+        tx.executeSql("CREATE TABLE IF NOT EXISTS Stop" +
+        "(id INTEGER PRIMARY KEY ASC, " +
+        "type INTEGER" +
+        "number TEXT" +
+        "direction INTEGER" +
+        "stopId INTEGER"
+        + ");", []);
+        });*/
+    }
+    
+    app.insertResponse = function(response) {
+        app.db.transaction(function(tx) {
+            tx.executeSql("INSERT INTO Response(time, date, number, time, more, data) VALUES (?,?,?,?,?,?);",
+                          [response.time, response.date, response.number, response.time, response.more, response.data],
+                          app.onSuccess,
+                          app.onError);
+        });
+    }
+
+    /*app.insertResponse = function(response) {
+    app.db.transaction(function(tx) {
+    tx.executeSql("INSERT INTO Response(sesion, at, stopId, number, time) VALUES (?,?,?,?,?);",
+    [response.sesion, response.at, response.stopId, response.number, response.time],
+    app.onSuccess,
+    app.onError);
+    });
+    }
+
+    app.insertStop = function(stop) {
+    app.db.transaction(function(tx) {
+    tx.executeSql("INSERT INTO Stop(type, number, direction, stopId) VALUES (?,?,?,?);",
+    [stop.type, stop.number, stop.direction, stop.stopId],
+    app.onSuccess,
+    app.onError);
+    });
+    }*/
+    
+    app.deleteResponse = function(id) {
+        app.db.transaction(function(tx) {
+            tx.executeSql("DELETE FROM Response WHERE id = ?;",
+                          [id],
+                          app.onSuccess,
+                          app.onError);
+        });
+    }
+
+    /*app.updateRecord = function(id, title) {
+    app.db.transaction(function(tx) {
+    tx.executeSql("UPDATE Response SET title = ? WHERE id = ?;",
+    [title, id],
+    app.onSuccess,
+    app.onError);
+    });
+    }*/
+
+    app.selectAllResponse = function(fn) {
+        app.db.transaction(function(tx) {
+            tx.executeSql("SELECT * FROM Response;", [],
+                          fn,
+                          app.onError);
+        });
+    }
+
+    /*app.selectAllStop = function(fn) {
+    app.db.transaction(function(tx) {
+    tx.executeSql("SELECT * FROM Response;", [],
+    fn,
+    app.onError);
+    });
+    }*/
+
+    /*function getAllTheData(handleReceivedData) {
+    app.selectAllRecords(handleReceivedData);
+    }*/
+    
+    function getAllTheData() {
+        var resp = [];
+        
+        app.selectAllResponse(getResp);
+        
+        function getResp(tx, rs) {
+            if (rs != null && rs.rows.length > 0) {
+                for (var i = rs.rows.length - 1; i > 0; i--) {
+                    resp.push(rs.rows.item(i));
+                }
+            }
+        
+            console.log(resp);
+            console.log(resp.length);
+        
+            //app.home.viewModel.set("history", resp);
+        
+            return resp;
+            /*app.galleryAlbums.viewModel.set("albums", albumsFromDB);*/
+        }
+    }
+    
+    app.onSuccess = function(tx, r) {
+        console.log("Your SQLite query was successful!");
+    }
+
+    app.onError = function(tx, e) {
+        console.log("SQLite Error: " + e.message);
+    }
+
+    init();
+    /*document.addEventListener("deviceready", init, true);*/
+    return {
+        getData:getAllTheData,
+        addResponse:app.insertResponse,
+        deleteResponse:app.deleteResponse
+    }
+}());
+/*
+Available cars for rent
+Car details and rent option
+Rented cars with return date
+Home/About/Contacts view
+*/

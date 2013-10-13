@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SofiaTransport.Api", "SofiaTransport.Api\SofiaTransport.Api.csproj", "{0968D312-3D53-4D8E-B9A4-3D062CC7E156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst.Model", "CodeFirst.Model\CodeFirst.Model.csproj", "{090AA6EA-573F-4F92-B94B-62B7D0B6CFDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirst.DataLayer", "CodeFirst.DataLayer\CodeFirst.DataLayer.csproj", "{83E260B6-847A-4EA4-A05F-D5C7BF4A9B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0968D312-3D53-4D8E-B9A4-3D062CC7E156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0968D312-3D53-4D8E-B9A4-3D062CC7E156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0968D312-3D53-4D8E-B9A4-3D062CC7E156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0968D312-3D53-4D8E-B9A4-3D062CC7E156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{090AA6EA-573F-4F92-B94B-62B7D0B6CFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{090AA6EA-573F-4F92-B94B-62B7D0B6CFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{090AA6EA-573F-4F92-B94B-62B7D0B6CFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{090AA6EA-573F-4F92-B94B-62B7D0B6CFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E260B6-847A-4EA4-A05F-D5C7BF4A9B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E260B6-847A-4EA4-A05F-D5C7BF4A9B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E260B6-847A-4EA4-A05F-D5C7BF4A9B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E260B6-847A-4EA4-A05F-D5C7BF4A9B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
